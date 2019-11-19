@@ -1,0 +1,1 @@
+{"type":"mch","terminal":"aliot","tel":"00113582010041","pass":"830C18A39AFE495B2E50C979AC4F6817"}
